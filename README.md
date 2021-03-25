@@ -4,8 +4,10 @@
 
 This repository holds all of my personal projects that i've done over the years. Currently they're binned in two different cateogories.
 
-1. Data Science
-2. Software Development
+[I'm a relative reference to a repository file](../blob/master/LICENSE)
+
+1. [Data Science](../tree/main/Data%20Science)
+2. [Software Development](../tree/main/Software%20Development)
 
 Each category has it's own variety of projects and is accompanied by some form of technical documentation. 
 
