@@ -1,1 +1,15 @@
+# Software Development Projects
 
+## Quick Links
+
+<details><summary>CLICK ME</summary>
+<p>
+
+1. Database
+2. Backend
+3. Other
+
+
+</p>
+</details>
+</details>
