@@ -5,8 +5,8 @@
 This repository holds all of my personal projects that i've done over the years. Currently they're binned in two different cateogories.
 
 
-1. [Data Science](../e476h171/PERSONAL_PROJECTS/tree/main/Data%20Science)
-2. [Software Development](..e476h171/PERSONAL_PROJECTS/tree/main/Software%20Development)
+1. [Data Science](https://github.com/e476h171/PERSONAL_PROJECTS/tree/main/Data%20Science)
+2. [Software Development](https://github.com/e476h171/PERSONAL_PROJECTS/tree/main/Software%20Development)
 
 Each category has it's own variety of projects and is accompanied by some form of technical documentation. 
 
