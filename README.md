@@ -1,5 +1,17 @@
 # Emily Hersh - Projects Portfolio
 
+<details><summary>Recent Projects</summary>
+<p>
+
+1. [Password Manager](https://github.com/e476h171/PERSONAL_PROJECTS/tree/main/Software%20Development/Database/Password%20Manager)
+2. [Customer Churn Prediction](https://github.com/e476h171/PERSONAL_PROJECTS/tree/main/Data%20Science/Customer%20Churn%20Prediction)
+3. [Suicide Prevention](https://github.com/e476h171/PERSONAL_PROJECTS/tree/main/Data%20Science/Suicide%20Prevention)
+
+
+</p>
+</details>
+</details>
+
 ## Index
 
 This repository holds all of my personal projects that i've done over the years. Currently they're binned in two different cateogories.
