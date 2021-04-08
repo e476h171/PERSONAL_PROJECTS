@@ -9,7 +9,7 @@ Enclosed in this folder is my project built in SQL that generates a strong new p
 5. Conclusion
 
 ## Project Overview
-I, like most people, have a difficult time remembering my passwords and refraining from recycling the same 2 passwords out of sheer convience. There are countless methods to store  passwords, ranging from simple pen and paper to using password keychains. This project highlights the process of database develop from start to finish. I started by creating two tables, a master table and a history log and populated them with *random data* (dont even think about stealing my Github password lol). From there I created a package that includes 1 function and 3 procedures. They make use of techniques like triggers, sequences and calling procedures/functions inside another procedure.  
+I, like most people, have a difficult time remembering my passwords and refraining from recycling the same 2 passwords out of sheer convience. There are countless methods to store  passwords, ranging from simple pen + paper to using password keychains. This project highlights the process of database develop from start to finish. I started by creating two tables, a master table and a history log and populated them with *random data* (dont even think about stealing my Github password lol). From there I created a package that includes 1 function and 3 procedures. They make use of techniques like triggers, sequences and calling procedures/functions inside another procedure.  
 
 ## Getting Started
 * Install Benthic Golden or Sql Developer
@@ -43,11 +43,12 @@ EXEC DPKG_PASSWORD_MANAGER.PASSWORD_GENERATOR(21);
 ### PWD_MGR_HISTORY_LOG updated with last 3 passwords.
 ![Capture4](https://user-images.githubusercontent.com/78304652/113987241-dac6c080-9856-11eb-83a3-fb6214ac33c5.PNG)
 
-## Calling a Multi Select Getter: EXEC	DPKG_PASSWORD_MANAGER.PASSWORD_MANAGER_GETTER(:CURSOR, :P_ERR_CODE, :P_ERR_MSG, 'FACEBOOK,INSTAGRAM,TWITTER');
+## Calling a Multi Select Getter: 
+## EXEC	DPKG_PASSWORD_MANAGER.PASSWORD_MANAGER_GETTER(:CURSOR, :P_ERR_CODE, :P_ERR_MSG, 'FACEBOOK,INSTAGRAM,TWITTER');
 
 ![Capture5](https://user-images.githubusercontent.com/78304652/113987827-7fe19900-9857-11eb-864c-3affae5067d8.PNG)
 
 
 ## Conclusion
-This project was a great 'half-a-day' type of build and highlights the iteration of an idea from start to finish. Permission is granted to any front end devs who want to use this project to aid in building out an interface for the password manager.
+This project was a great 'half-a-day' type of build and highlights the iteration of an idea from start to finish. Permission is granted to any front end devs who want to use this project to build out an interface for the password manager.
 
