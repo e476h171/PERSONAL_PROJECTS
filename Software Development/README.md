@@ -5,7 +5,7 @@
 <details><summary>CLICK ME</summary>
 <p>
 
-1. Backend
+1. Database
 2. Other
 
 
