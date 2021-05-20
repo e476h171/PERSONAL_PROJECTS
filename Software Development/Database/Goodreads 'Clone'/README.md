@@ -1,11 +1,7 @@
 # Goodreads Clone
-Enclosed in this folder is my project built in SQL that generates a strong new password and manages all passwords in one place. 
-
-## Table of Contents
-1. Project Overview
-2. Conclusion
+Enclosed in this folder is my project detailing the first steps of database development- demonstrating my ability to write technical documentation and build Entity Relationship Diagrams. 
 
 ## Project Overview
-I, like most people, have a difficult time remembering my passwords and refraining from recycling the same 2 passwords out of sheer convience. There are countless methods to store  passwords, ranging from simple pen + paper to using password keychains. This project highlights the process of database develop from start to finish. I started by creating two tables, a master table and a history log and populated them with *random data* (dont even think about stealing my Github password lol). From there I created a package that includes 1 function and 3 procedures. They make use of techniques like triggers, sequences and calling procedures/functions inside another procedure.  
+Goodreads is a popular website that provides users with information about books and authors, one could say it's the "Spotify" of the literary industry. I personally use this app to find new books and store the ones I want to read in the future. During this project, I worked backwards, first analyzing the website features and then creating an ERD. From there, I wrote the techincal specifications document- detailing a high level overview of the steps needed to create a database structure that would support a website like this. 
 
-## Conclusion
+
