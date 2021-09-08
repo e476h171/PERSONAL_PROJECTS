@@ -1,12 +1,14 @@
-# Password Manager and Generator
-Enclosed in this folder is my project built in SQL that generates a strong new password and manages all passwords in one place. 
+# Fetch Rewards Coding Exercise - Data Analyst
+Enclosed in this folder is my project built in SQL that demonstrates my ability to reason and communicate my understanding of data sets to others.
 
 ## Table of Contents
 1. Project Overview
 2. Getting Started
-3. Replication Steps
-4. Results
-5. Conclusion
+3. Entity Relationship Diagram
+4. SQL Queries
+5. Data Quality Evaluation
+6. Communicate with Stakeholders
+7. Conclusion
 
 ## Project Overview
 I, like most people, have a difficult time remembering my passwords and refraining from recycling the same 2 passwords out of sheer convience. There are countless methods to store  passwords, ranging from simple pen + paper to using password keychains. This project highlights the process of database develop from start to finish. I started by creating two tables, a master table and a history log and populated them with *random data* (dont even think about stealing my Github password lol). From there I created a package that includes 1 function and 3 procedures. They make use of techniques like triggers, sequences and calling procedures/functions inside another procedure.  
@@ -16,14 +18,6 @@ I, like most people, have a difficult time remembering my passwords and refraini
 * Create a new instance 
 * Create a new user: 'test_user'
 
-## Replication Steps
-Please runs the above files in this order:
-
-1. TBL_SCRIPT.SQL
-2. INSERT_SCRIPT.SQL
-3. DPKG_PASSWORD_MANAGER.SQL
-
-## Results
 
 ### Master Table [PWD_MGR_MASTER]
 ![Capture1](https://user-images.githubusercontent.com/78304652/113986552-085f3a00-9856-11eb-9bb3-a99853e517e1.PNG)
