@@ -11,7 +11,7 @@ Enclosed in this folder is my project built in Oracle SQL/Python.
 ## Entity Relationship Diagram
 (See Fetch_ERD.vsdx)
 
-![image](https://user-images.githubusercontent.com/78304652/132506922-de53c302-6282-4a11-a3ec-dd301221efbe.png)
+![image](https://user-images.githubusercontent.com/78304652/132510823-7c8bc0fd-0c52-4679-b3b1-ae263798f739.png)
 
 
 ## SQL Queries
