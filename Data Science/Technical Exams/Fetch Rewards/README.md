@@ -9,10 +9,14 @@ Enclosed in this folder is my project built in SQL/Python that demonstrates my a
 5. Conclusion 
 
 ## Entity Relationship Diagram
+(See Fetch_ERD.vsdx)
+
 ![image](https://user-images.githubusercontent.com/78304652/132506922-de53c302-6282-4a11-a3ec-dd301221efbe.png)
 
 
 ## SQL Queries
+(See SQL.sql)
+
 I answered the following questions with my query
 1. When considering average spend from receipts with 'rewardsReceiptStatus’ of ‘Accepted’ or ‘Rejected’, which is greater?
 2. When considering total number of items purchased from receipts with 'rewardsReceiptStatus’ of ‘Accepted’ or ‘Rejected’, which is greater?
@@ -20,6 +24,8 @@ I answered the following questions with my query
 ![Capture1](https://user-images.githubusercontent.com/78304652/132505330-cec681c8-2f78-4ec5-8b4f-6a0a0d826f2b.PNG)
 
 ## Data Quality Evaluation
+(See Fetch_Data_Quality.py)
+
 I cleaned and analyzed the receipts schema using pandas. Specifically, I explored the shape and structure of the data and evaluated the missing and unique values in the data frame. I would definitely look into bonusPointsEarned & bonusPointsEarnedReason as they both have a high number of missing values. However, in this phase of EDA the data seems sound. Moving forward I would defintily utilize the numpy and matplotlib packages to check the normality through a historgram, box-plot etc. 
 
 ![Capture](https://user-images.githubusercontent.com/78304652/132500383-4e26f500-8800-4d21-a3c9-cea01634c6a5.PNG)
