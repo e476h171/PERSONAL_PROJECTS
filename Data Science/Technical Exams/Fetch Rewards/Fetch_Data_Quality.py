@@ -1,4 +1,3 @@
-#this code was run in pycharm
 #please be sure to 'pip install pandas' to continue
 
 #Convert JSON File to CSV
