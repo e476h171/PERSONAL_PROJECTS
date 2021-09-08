@@ -40,4 +40,4 @@ Emily Hersh
 
 
 ## Conclusion
-Thank you for your time and I hope to have the opportunity to speak with you further about how I can be an asset to your team.
+Thank you for your time and I hope to have the opportunity to speak with you further about how I can be an asset to your team. :cowboy_hat_face:
