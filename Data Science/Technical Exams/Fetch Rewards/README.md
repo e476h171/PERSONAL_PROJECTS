@@ -12,20 +12,14 @@ Enclosed in this folder is my project built in SQL/Python that demonstrates my a
 ## Project Overview
 I, like most people, have a difficult time remembering my passwords and refraining from recycling the same 2 passwords out of sheer convience. There are countless methods to store  passwords, ranging from simple pen + paper to using password keychains. This project highlights the process of database develop from start to finish. I started by creating two tables, a master table and a history log and populated them with *random data* (dont even think about stealing my Github password lol). From there I created a package that includes 1 function and 3 procedures. They make use of techniques like triggers, sequences and calling procedures/functions inside another procedure.  
 
-
-
-### Master Table [PWD_MGR_MASTER]
-![Capture1](https://user-images.githubusercontent.com/78304652/113986552-085f3a00-9856-11eb-9bb3-a99853e517e1.PNG)
-
-
-### History Details Table [PWD_MGR_HISTORY_LOG]
-![Capture2](https://user-images.githubusercontent.com/78304652/113986562-0b5a2a80-9856-11eb-9e1c-5d1f5d521859.PNG)
-
 ## Entity Relationship Diagram
 
 ## SQL Queries
 
 ## Data Quality Evaluation
+I cleaned and analyzed the receipts schema using pandas. Specifically, I explored the shape and structure of the data and evaluated the missing and unique values in the data frame. I would definitely look into bonusPointsEarned & bonusPointsEarnedReason as they both have a high number of missing values. However, in this phase of EDA the data seems sound. Moving forward I would defintily utilize the numpy and matplotlib packages to check the normality through a historgram, box-plot etc. 
+
+![Capture](https://user-images.githubusercontent.com/78304652/132500383-4e26f500-8800-4d21-a3c9-cea01634c6a5.PNG)
 
 ## Communicate with Stakeholders
 Dear Ms. Smith,
