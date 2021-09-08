@@ -2,17 +2,15 @@
 Enclosed in this folder is my project built in SQL/Python that demonstrates my ability to reason and communicate my understanding of data sets to others.
 
 ## Table of Contents
-1. Project Overview
-2. Entity Relationship Diagram
-3. SQL Queries
-4. Data Quality Evaluation
-5. Communicate with Stakeholders
-6. Conclusion
-
-## Project Overview
-I, like most people, have a difficult time remembering my passwords and refraining from recycling the same 2 passwords out of sheer convience. There are countless methods to store  passwords, ranging from simple pen + paper to using password keychains. This project highlights the process of database develop from start to finish. I started by creating two tables, a master table and a history log and populated them with *random data* (dont even think about stealing my Github password lol). From there I created a package that includes 1 function and 3 procedures. They make use of techniques like triggers, sequences and calling procedures/functions inside another procedure.  
+1. Entity Relationship Diagram
+2. SQL Queries
+3. Data Quality Evaluation
+4. Communicate with Stakeholders
+5. Conclusion 
 
 ## Entity Relationship Diagram
+![image](https://user-images.githubusercontent.com/78304652/132506922-de53c302-6282-4a11-a3ec-dd301221efbe.png)
+
 
 ## SQL Queries
 I answered the following questions with my query
