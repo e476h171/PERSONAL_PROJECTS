@@ -1,11 +1,11 @@
 # Fetch Rewards Coding Exercise - Data Analyst
-Enclosed in this folder is my project built in SQL/Python that demonstrates my ability to reason and communicate my understanding of data sets to others.
+Enclosed in this folder is my project built in Oracle SQL/Python.
 
 ## Table of Contents
 1. Entity Relationship Diagram
 2. SQL Queries
 3. Data Quality Evaluation
-4. Communicate with Stakeholders
+4. Sample Email
 5. Conclusion 
 
 ## Entity Relationship Diagram
@@ -30,9 +30,9 @@ I cleaned and analyzed the receipts schema using pandas. Specifically, I explore
 
 ![Capture](https://user-images.githubusercontent.com/78304652/132500383-4e26f500-8800-4d21-a3c9-cea01634c6a5.PNG)
 
-## Communicate with Stakeholders
+## Sample Email
 Dear Ms. Smith,
-	Thank you for taking the time to meet with me later today. There are a few stoppers that we need to discuss in order for me to continue with my work. After cleaning the data in python, I discovered some quality issues. Could you please provide me with the source of xyz data set, and potentially a contact that I could discuss any technical details with? I need to know a bit more about how this quarter’s data is being structured so that I can reason whether or not some missing values make sense. Lastly, I propose a cross-functional meeting with x department in order to discuss some areas in which we could optimize the data pipeline in order to get it ready for production. I have some concerns about how efficient the process will be if it’s overloaded with data. I’ve cc’d the java team and we can discuss mediation at a later date. See you later today, the meeting should only last around 30 minutes.
+	Thank you for taking the time to meet with me later today. There are a few stoppers that we need to discuss in order for me to continue with my work. After cleaning the data in python, I discovered some quality issues. Could you please provide me with the source of xyz data set, and potentially a contact that I could discuss any technical details with? I need to know a bit more about how this quarter’s data is being structured so that I can reason whether or not some missing values make sense. Lastly, I propose a cross-functional meeting with x department in order to discuss some areas in which we could optimize the data pipeline in order to get it ready for production. I have some concerns about how efficient the process will be if it’s overloaded with data. I’ve cc’d the java team and we can discuss mediation at a later date. 
   
 With Anticipation,
 
