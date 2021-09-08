@@ -15,6 +15,11 @@ I, like most people, have a difficult time remembering my passwords and refraini
 ## Entity Relationship Diagram
 
 ## SQL Queries
+I answered the following questions with my query
+1. When considering average spend from receipts with 'rewardsReceiptStatus’ of ‘Accepted’ or ‘Rejected’, which is greater?
+2. When considering total number of items purchased from receipts with 'rewardsReceiptStatus’ of ‘Accepted’ or ‘Rejected’, which is greater?
+
+![Capture1](https://user-images.githubusercontent.com/78304652/132505330-cec681c8-2f78-4ec5-8b4f-6a0a0d826f2b.PNG)
 
 ## Data Quality Evaluation
 I cleaned and analyzed the receipts schema using pandas. Specifically, I explored the shape and structure of the data and evaluated the missing and unique values in the data frame. I would definitely look into bonusPointsEarned & bonusPointsEarnedReason as they both have a high number of missing values. However, in this phase of EDA the data seems sound. Moving forward I would defintily utilize the numpy and matplotlib packages to check the normality through a historgram, box-plot etc. 
