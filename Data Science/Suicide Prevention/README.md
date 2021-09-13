@@ -169,7 +169,7 @@ This was an insignficant variable with r = 0.0018
 
 ## Building a Model
 ### Model 1:
-I used the 90 train/ 10 test split to create my datasets. To begin with, I fitted a basic linear regression model with all 3 variables (sex, age and generation)
+I used the 90 train/ 10 test split to create my datasets. To begin with, I fit a basic linear regression model with all 3 variables (sex, age and generation)
 
 lm.fit1= lm(suicide_rate~age + sex + generation,data=suicide.train)
 
