@@ -28,7 +28,7 @@ Hello!
 
   My name is Emily Hersh and welcome to my Project Portfolio! A little bit about me. I hold a B.Sc in Business Analytics from the University of Kansas. Throughout my studies, I was an Undergraduate Research Assistant in the NIH funded, Language Acquistion Studies Lab under Dr. Mabel Rice's leadership.  I assisted a team of researchers and analysts with their study on language development in children with Specific Language Impairment. 
 
-  Now I am working on a distributed team of Oracle, .Net and Java developers developing billing software for telecommunication companies on a global level. My current interests include NLP (specifically for Arabic) and conducting analysis on datasets from the Middle East. 
+  Now I am working as a Business Analyst at Gain Life, a platform that helps injured workers return to work! My current interests include NLP (specifically for Arabic) and conducting analysis on datasets from the Middle East. 
   
 ## Contact Me  
 
